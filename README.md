@@ -244,4 +244,4 @@ This repository serves as the official landing page for Ad-Aware. The software i
 **Get the most recent version of Ad-Aware today!**
 
 ---
-**Last updated:** 2026-10-28 03:08:34 UTC
+**Last updated:** 2026-10-28 10:10:26 UTC
